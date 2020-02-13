@@ -1,0 +1,1 @@
+export const $ChatTemplate = require('html-loader?interpolate!./../../assets/partials/chat.html');

@@ -1,0 +1,1 @@
+export const $UserNameTemplate = require('html-loader!./../../assets/partials/username.html');

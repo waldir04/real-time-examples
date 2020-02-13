@@ -1,0 +1,1 @@
+export const $ChatMessageTemplate = require('html-loader!./../../assets/partials/message.html');
